@@ -1,0 +1,79 @@
+
+body{
+    background-color: black;
+    zoom: inherit;
+}
+h3{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: normal;
+    font-size: 50px;
+    color: white;
+    text-align: center;
+    
+}
+a{
+    color: aquamarine;
+    font-size: 20px;
+   
+
+}
+.click{
+    text-align: center;
+
+}
+
+video{
+    
+    border-radius: 50;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 20px;
+
+    
+    
+}
+h2{
+    color: white;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 42px;
+    font-weight: 300;
+}
+p{
+    color: gray;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 21px;
+    text-align: center;
+
+}
+.pho{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 70%;
+    
+}
+
+.fo{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 20px;
+    width: 5%;
+    height: 10;
+}
+.h{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: normal;
+    font-size: 50px;
+    color: white;
+    text-align: center;
+}
+footer{
+    color: gray;
+    text-align: right;
+    font-size: 20px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
